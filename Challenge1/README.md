@@ -5,7 +5,7 @@ The Upside Down is leaking secrets.
 Before vanishing, Jim Hopper left a message for Eleven — but it’s fragmented across **four parts**.  
 
 Use your **forensics skills** to retrieve all four parts and reconstruct the full flag.  
-No Demogorgons — just your investigative grit./n
+No Demogorgons — just your investigative grit.
 FYI: It's basic
 flag format: questCON{}
 
