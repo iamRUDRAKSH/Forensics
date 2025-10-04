@@ -7,7 +7,7 @@ Your mission: dive into the network traffic and uncover the hidden message befor
 
 ## Attachments
 
-'challenge.pcapng'
+- [challenge.pcapng](challenge.pcapng)
 
 ## Author
 
