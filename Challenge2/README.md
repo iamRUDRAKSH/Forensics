@@ -1,6 +1,6 @@
 # Challenge 2: Stranger Things – The Upside Down Packet Mystery
 
-## Description
+## Description  
 
 A mysterious network capture has been recovered, containing hidden fragments left behind by the Hawkins Lab.  
 Your mission: dive into the network traffic and uncover the hidden message before it vanishes completely.
