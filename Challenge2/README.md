@@ -5,6 +5,10 @@
 A mysterious network capture has been recovered, containing hidden fragments left behind by the Hawkins Lab.  
 Your mission: dive into the network traffic and uncover the hidden message before it vanishes completely.
 
+## Attachments
+
+'challenge.pcapng'
+
 ## Author
 
 rudraksh7
