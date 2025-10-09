@@ -9,12 +9,11 @@ No Demogorgons — just your investigative grit.
 FYI: It's basic  
 flag format: questCON{}
 
----
-
 ## Attachments
 - [challenge1.zip](challenge1.zip)
 
----
-
 ## Flag
-`questCON{K33p_0n_Gr0w1ng_Up_K1d_1L0v3Y0u}`
+`questCON{K33p_0n_Gr0w1ng_Up_K1d_1L0v3Y0u}`  
+
+##Author
+Crazy8(Rudraksh)
