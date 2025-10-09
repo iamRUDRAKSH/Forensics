@@ -9,9 +9,8 @@ Your mission: dive into the network traffic and uncover the hidden message befor
 
 - [challenge.pcapng](challenge.pcapng)
 
-## Author
-
-rudraksh7
-
 ## Flag
-questCON{Fr13nds_D0nt_l13}
+questCON{Fr13nds_D0nt_l13}  
+
+## Author
+rudraksh7
