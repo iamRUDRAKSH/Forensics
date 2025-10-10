@@ -1,4 +1,4 @@
-# Challenge 2: Stranger Things – The Upside Down Packet Mystery
+# Challenge 2: The Upside Down Packet Mystery
 
 ## Description  
 
