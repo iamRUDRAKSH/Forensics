@@ -49,9 +49,10 @@ This suggests hidden or embedded data.
 
 #### Technique Used
 - **Binwalk** on the PDF file
-'''bash  
+```bash  
 binwalk Research.pdf
-binwalk -e Research.pdf  
+binwalk -e Research.pdf
+```
 
 #### Result
 Binwalk reveals an embedded file: part1.txt  
