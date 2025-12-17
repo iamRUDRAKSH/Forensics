@@ -12,10 +12,10 @@ This repo is focused on **practical digital forensics challenges** — ideal for
 
 ## 🧠 Repository Structure
 
-Forensics/
-├── Challenge1/ # Challenge 1 artifacts & solutions
-├── Challenge2/ # Challenge 2 artifacts & solutions
-├── README.md # This overview
+Forensics/  
+├── Challenge1/ # Challenge 1 artifacts & solutions  
+├── Challenge2/ # Challenge 2 artifacts & solutions  
+├── README.md # This overview  
 
 
 ## 🚀 Getting Started
