@@ -110,10 +110,3 @@ openssl enc -d -aes-256-cbc -pbkdf2 \
 The decrypted file reveals the final flag:
 
 questCON{Fr13nds_D0nt_l13}
-
-
-
-
-
-
-To reduce noise, an **HTTP display filter** is applied.
