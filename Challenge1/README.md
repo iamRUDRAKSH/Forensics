@@ -49,12 +49,13 @@ This suggests hidden or embedded data.
 
 #### Technique Used
 - **Binwalk** on the PDF file
-- '''binwalk Research.pdf'''
-- '''binwalk -e Research.pdf'''  
+'''bash  
+binwalk Research.pdf
+binwalk -e Research.pdf  
 
 #### Result
 Binwalk reveals an embedded file: part1.txt  
-After extraction, the **first fragment of the flag** is obtained.
+After extraction, the **first fragment of the flag** is obtained.  
 K33p_0n_  
 
 ### 📁 Part 2 – Disk Image Analysis
